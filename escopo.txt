@@ -1,0 +1,10 @@
+Exercícioo de Fixação
+
+tabela (HTML e CSS)
+
+-> A partir do exemplo da aula passada, tente reproduzir a tabela que está no enunciado do Teams Aula 04 -Exercício tabela.pdf
+
+-> Crie um README.md e tente publicar no Github
+
+-> Chamem o professor a medida que as dúvidas forem surgindo.
+

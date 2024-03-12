@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family:'Open Sans','Times New Roman';
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 22px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 22px;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+.imagens{
+    max-width: 150px;
+}
