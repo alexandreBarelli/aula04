@@ -5,6 +5,11 @@ body {
 }
 h1 {
     font-size: 40px;
+    color:blueviolet;
+    
+}
+h2 {
+    color:red;
 }
 p {
     font-size: 22px;
@@ -13,6 +18,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin: 22px;
+    border: 2px solid blue;
+    border-radius:20px;
 }
 th, td {
     padding: 8px;
@@ -20,4 +27,11 @@ th, td {
 }
 .imagens{
     max-width: 150px;
+}
+.cabecalho {
+    color:white;
+    background:blue;
+}
+.azulClaro {
+    background: #368DD9;
 }
